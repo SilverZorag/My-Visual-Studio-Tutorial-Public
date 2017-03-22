@@ -1,2 +1,2 @@
-# My-Visual-Studio-Tutorial-Public
-My Public Tutorial Repo
+# Visual-Studio Public
+Visual Studio Public
